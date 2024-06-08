@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadulloh-pro" alt="asadulloh-pro" /></a> </p>
 
-- 🔭 I’m currently working on [Mediapark online shop](https://mediapark.uz/)
+- 🔭 I’m currently working on [Learn platform]([https://mediapark.uz/](https://github.com/asadulloh-pro/learn-platform))
 
-- 🌱 I’m currently learning **Electron js**
+- 🌱 I’m currently learning **tRPC**
 
 - 👨‍💻 All of my projects are available at [https://asadulloh.uz/](https://asadulloh.uz/)
 
